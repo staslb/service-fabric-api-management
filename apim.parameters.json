@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "apimInstanceName": {
-      "value": ""
+      "value": "apimservname"
     },
     "apimPublisherEmail": {
-      "value": ""
+      "value": "qwe@qw.q"
     },
     "apimSku": {
-      "value": ""
+      "value": "Developer"
     },
     "vnetName": {
       "value": "sf-apim-vnet"
